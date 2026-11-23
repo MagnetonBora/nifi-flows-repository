@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1795444033324,
+    "description" : "Some RecordQuery examples",
+    "identifier" : "Example",
+    "lastModifiedTimestamp" : 1795444033324,
+    "name" : "Example",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
